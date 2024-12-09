@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NyaHexgen": {
+      "commandName": "Project",
+      "commandLineArgs": "-minfo_block.xml serial=SER1234567788 configuration=123 note=\"Ням ням\" -d -sblock.bin format=bin"
+    }
+  }
+}
